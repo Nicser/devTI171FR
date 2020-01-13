@@ -1,1 +1,3 @@
 Fisier test pentru laborator TIDPP.
+
+Modificare secundara.
